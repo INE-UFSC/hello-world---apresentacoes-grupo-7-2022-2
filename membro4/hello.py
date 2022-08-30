@@ -8,10 +8,10 @@ def hello():
         Tenho <text light_cyan><bold>20</></> anos.<br/>
 
         Atualmente meus hobbies são <bold><text light_green>programação</></>
-        e <bold><text light_green>leitura</></>.<br/>
+        e <bold><text light_green>ler</></>.<br/>
 
         Experiência prévia de programação: Programei para muitas coisas,
-        principalmente relacionado à <bold><text cyan>Web</></>.<br/>
+        principalmente relacionado à <bold><text cyan>Web</></>, também programei para <bold><text cyan>embarcados</></>.<br/>
 
         Nessa disciplina, espero melhorar as habilidades de <text light_yellow><bold>programação orientada a objetos</></> e fazer um jogo
         <bold>legal</bold>.<br/>
