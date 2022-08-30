@@ -1,6 +1,5 @@
 from .styled_text import StyledText
 
-
 def hello():
     styled_text_engine = StyledText()
     return styled_text_engine.render("""<br/><remove-indent>
