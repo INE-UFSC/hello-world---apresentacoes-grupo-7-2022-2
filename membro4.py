@@ -4,10 +4,10 @@ def hello():
 
     return """
 Olá, eu sou o Geovane
+Sou daqui mesmo :)
 Tenho 20 anos.
 
-Atualmente meus hobbies são programação
-e ler.
+Atualmente meus hobbies são programação ler e ouvir músicas.
 
 Experiência prévia de programação: Programei para muitas coisas,
 principalmente relacionado à Web, também programei para embarcados.
